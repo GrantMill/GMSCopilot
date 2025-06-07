@@ -62,3 +62,7 @@ Our architecture is built around the Copilot Stack
 [简体中文版本点击这里](./README.zh-cn.md)
 
 [正體中文版本點擊這裡](./README.zh-tw.md)
+
+### Credit
+
+This project and sample extension are maintained by **Grant Mill Software**.
