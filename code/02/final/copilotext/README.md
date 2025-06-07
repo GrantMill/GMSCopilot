@@ -1,6 +1,6 @@
 # copilotext README
 
-This is the README for your extension "copilotext". After writing up a brief description, we recommend including the following sections.
+This extension is branded as **Grant Mill Copilot** and is provided courtesy of **Grant Mill Software**. After writing up a brief description, we recommend including the following sections.
 
 ## Features
 
